@@ -102,6 +102,7 @@ aeroagora.com.br
 aerzteblatt.de
 afanasy.biz
 afederasi.com
+affaritaliani.it
 afkarjadida.com
 afpbb.com
 afr.com
@@ -116,6 +117,7 @@ agenciaoaxacamx.com
 agenciapi.co
 agendadopoder.com.br
 agenparl.eu
+agenpress.it
 agenziagiornalisticaopinione.it
 agenzianova.com
 agi.it
@@ -152,6 +154,7 @@ al-awassef.com
 al-bayader.com
 al-madina.com
 al.com
+alanbatnews.net
 alaraby.co.uk
 albawaba.com
 aldawlanews.com
@@ -175,6 +178,7 @@ alparslandiyari.com
 alphabetcity.it
 alqalahnews.net
 alraimedia.com
+alsaa.net
 alsbbora.info
 alshbaka.net
 alta.ru
@@ -207,6 +211,7 @@ ancora1.com
 andhravilas.net
 andoveradvertiser.co.uk
 anews.az
+angelorigon.com.br
 angers.maville.com
 animeita.net
 anlatilaninotesi.com.tr
@@ -244,6 +249,7 @@ ariesonline.com.ar
 arifiyedenhaber.com
 armaghi.com
 aroundprague.cz
+arqam.news
 arrajol.com
 artestv.it
 arthosuchak.com
@@ -266,6 +272,7 @@ assodigitale.it
 assowebtv.com
 ast.mk.ru
 astrakhanpost.ru
+astucesdegrandmere.net
 astv.com.tr
 asuntoslegales.com.co
 atelevisao.com
@@ -458,6 +465,7 @@ bryantimes.com
 bsmpgrodno.by
 bssnews.net
 bta.bg
+bucksfreepress.co.uk
 buffalo.edu
 buffalonews.com
 bugunkocaeli.com.tr
@@ -485,6 +493,7 @@ buzzfeed.com
 bvmsports.com
 bvnews24.com
 bworldonline.com
+bx1.be
 c.m.163.com
 ca.news.yahoo.com
 ca.sports.yahoo.com
@@ -691,6 +700,7 @@ daidoanket.vn
 dailian.co.kr
 daily.co.jp
 dailyasianage.com
+dailybdmail.com
 dailybest.it
 dailydodge.com
 dailyecho.co.uk
@@ -716,6 +726,7 @@ dakotanewsnetwork.com
 dan-news.ru
 dantri.com.vn
 danviet.vn
+darelhilal.com
 darlingtonandstocktontimes.co.uk
 databoks.katadata.co.id
 datanews.caixin.com
@@ -870,6 +881,7 @@ doyouremember.com
 dp.informator.ua
 dp.ru
 dribin.by
+drttv.com
 drugsandalcohol.ie
 dtf.ru
 dtinews.dantri.com.vn
@@ -1013,6 +1025,7 @@ en.people.cn
 en.protothema.gr
 en.royanews.tv
 en.sggp.org.vn
+en.tempo.co
 en.tengrinews.kz
 en.vijesti.me
 enca.com
@@ -1101,6 +1114,7 @@ factjo.com
 faktaberita.co.id
 fakti.bg
 fakty.com.ua
+fakty.ua
 fanoticias.com.br
 farmacosalud.com
 farmersweekly.co.za
@@ -1141,6 +1155,7 @@ firtka.if.ua
 fiscoetasse.com
 fitforfun.de
 fivape.org
+fj-p.com
 floridapolitics.com
 fm105.com.mx
 fm1077.ca
@@ -1177,6 +1192,7 @@ fox5dc.com
 fox7austin.com
 foxnews.com
 foxrochester.com
+fr.cibercuba.com
 fr.lapresse.it
 fr.news.yahoo.com
 france3-regions.franceinfo.fr
@@ -1404,6 +1420,7 @@ hipertextual.com
 hiptex.com.mx
 hirunews.lk
 hispanatolia.com
+history.com
 hjdoblekhuila.com
 hk.news.yahoo.com
 hk01.com
@@ -1535,6 +1552,7 @@ infokini.id
 infomoney.com.br
 inform.kz
 informacion.es
+informacje.wp.pl
 informador.mx
 informalnewz.com
 informatesalta.com.ar
@@ -1656,6 +1674,7 @@ jornalemdestaque.com
 jornaloceleiro.com.br
 joseilbo.com
 journal-advocate.com
+journal.com.ph
 journalbd24.com
 journaldeleconomie.fr
 journaldequebec.com
@@ -1707,6 +1726,7 @@ kataeb.org
 kayserigundem.com.tr
 kayserigurhaber.com
 kayserihaber.com.tr
+kazanfirst.ru
 kazved.ru
 kbmaeil.com
 keighleynews.co.uk
@@ -1783,6 +1803,7 @@ koreatimes.co.kr
 kormedi.com
 kosmo.at
 kosmo.com.my
+kp.ua
 kplctv.com
 krasrab.ru
 krmg.com
@@ -1792,6 +1813,7 @@ krone.at
 kronos38.news
 krupki.by
 ksal.com
+ksdy50.com
 ktipp.ch
 ktv-ray.ru
 ktvo.com
@@ -1813,6 +1835,7 @@ kyeonggi.com
 kyiv1.com
 kyoto-np.co.jp
 kyushu-u.ac.jp
+kz.kursiv.media
 la-croix.com
 la100.cienradios.com
 la1ere.franceinfo.fr
@@ -1842,12 +1865,14 @@ lamontagne.fr
 lampung.lidik.id
 lampung.tribunnews.com
 lampung.viva.co.id
+lanacion.com.ar
 lanazione.it
 lancasterfarming.com
 lancs.live
 lannion-perros.maville.com
 lanouvellerepublique.fr
 lanuevacronica.com
+lanuovaprovincia.it
 lanuovasardegna.it
 laopcion.com.mx
 laopinioncoruna.es
@@ -1882,6 +1907,7 @@ latribune.fr
 laurentides.cime.fm
 lavanguardia.com
 lavendermagazine.com
+laverdad.es
 laverdadpa.com
 laverite.ma
 laveulliure.ad
@@ -1929,6 +1955,7 @@ lepetitjournal.com
 leprogres.fr
 lequotidien.lu
 lereveildumidi.fr
+lerunica.com.br
 lesiteinfo.com
 lesoleildelafloride.com
 lessentiel.lu
@@ -1967,11 +1994,13 @@ lio-occitanie.fr
 liputan6.com
 liputansbm.com
 lite987.com
+live5news.com
 live959.com
 live95fm.ie
 liveangarsk.ru
 livehindustan.com
 liverdiseasenews.com
+livesicilia.it
 livornopress.it
 lja.mx
 lloretgaceta.com
@@ -2110,6 +2139,7 @@ medscape.com
 medyatava.com.tr
 meganoticias.mx
 megapolitan.kompas.com
+megatiempo.cl
 megatyumen.ru
 meherpurnews.com
 meinbezirk.at
@@ -2304,6 +2334,7 @@ newdaynews.ru
 neweralive.na
 newgrodno.by
 newindianexpress.com
+newkerala.com
 news-armavir.ru
 news-irkutsk.ru
 news-komi.ru
@@ -2325,6 +2356,7 @@ news.err.ee
 news.fh21.com.cn
 news.harvard.edu
 news.ifeng.com
+news.ikbc.co.kr
 news.inbox.lv
 news.kakaku.com
 news.livedoor.com
@@ -2440,9 +2472,11 @@ nnchaber.com
 nnn.ng
 nnov.er.ru
 nocutnews.co.kr
+noe.orf.at
 noen.at
 noktagazetesi.com.tr
 nongmin.com
+nongnghiepmoitruong.vn
 noovo.info
 nopontosc.com.br
 nord24.de
@@ -2554,6 +2588,7 @@ ofatomaringa.com
 offalyexpress.ie
 oglobo.globo.com
 ogo.ua
+ogritonews.com.br
 ogunhaber.com
 ohoje.com
 ojoioeotrigo.com.br
@@ -2608,6 +2643,7 @@ orf.at
 orfonline.org
 oricon.co.jp
 orientaldaily.on.cc
+orilliamatters.com
 oriobranco.net
 osaogoncalo.com.br
 oskaloosa.com
@@ -2695,6 +2731,8 @@ pnp.ru
 point.md
 poisknews.ru
 pojokkiri.com
+pojoknasional.co.id
+pokrovsk.news
 polatlipostasi.com
 polesine24.it
 polit74.ru
@@ -2724,6 +2762,7 @@ portaltri.com.br
 portstephens.newsofthearea.com.au
 poskota.co.id
 posta.com.tr
+postal.pt
 postandcourier.com
 postcourier.com.pg
 postnews.ru
@@ -2869,6 +2908,7 @@ rbc.ru
 rbc.ua
 rcalaradio.com
 rccnoticias.com.do
+rci.fm
 rd1.com.br
 rdmonline.com.br
 rdn.com.py
@@ -2946,6 +2986,7 @@ rimixradio.com
 risalehaber.com
 risingbd.com
 rivieraradio.mc
+rizedeyiz.com
 rizetakip.com
 rlsmedia.com
 rmc.bfmtv.com
@@ -3055,6 +3096,7 @@ saudigazette.com.sa
 sauerlandkurier.de
 sbbit.jp
 sbs.com.au
+scanx.trade
 schwaebische-post.de
 schwaebische.de
 schwarzwaelder-bote.de
@@ -3126,6 +3168,7 @@ siirthaberci.com
 simplywall.st
 simya.com.ua
 sinarharian.com.my
+singtaousa.com
 sinopflashaber.com
 sirabee.com
 sirnakhaber73.com
@@ -3210,6 +3253,7 @@ staradvertiser.com
 starcitytv.com
 starnewskorea.com
 starofmysore.com
+startnews.co.id
 statetimes.in
 statoquotidiano.it
 stav.aif.ru
@@ -3313,8 +3357,10 @@ tapchitoaan.vn
 targetberita.co.id
 taroba.com.br
 tasikmalayaku.id
+tasikzone.com
 tass.ru
 tatar-inform.ru
+tatarstan24.tv
 taxguru.in
 tbsnews.net
 tcijthai.com
@@ -3528,6 +3574,7 @@ tribunaliberal.com.br
 tribune.com.pk
 tribuneindia.com
 tribunnews.com
+tribuntipikor.com
 tricityvoice.com
 triesteprima.it
 trn-news.ru
@@ -3611,6 +3658,7 @@ umivaleactiva.es
 unair.ac.id
 unicaradio.it
 unicobc.com.mx
+uniindia.com
 unilad.com
 uniladtech.com
 unionesarda.it
@@ -3623,6 +3671,7 @@ unn.ua
 unpublished.ca
 unyenethaber.com
 up18news.com
+upi.com
 upkiran.org
 upl.uz
 ura.news
@@ -3846,6 +3895,7 @@ wrrv.com
 wsaz.com
 wsbradio.com
 wshu.org
+wsmv.com
 wtip.org
 wtvr.com
 wupe.com
@@ -3920,6 +3970,7 @@ zedgossip.net
 zeebiz.com
 zeenews.india.com
 zeit.de
+zetaluiss.it
 zhitomirnews.com
 zhizn.ru
 zhodinonews.by
